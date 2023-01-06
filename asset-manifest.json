@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/firebase-auth/static/css/main.c2cab247.css",
+    "main.js": "/firebase-auth/static/js/main.ea94725e.js",
+    "index.html": "/firebase-auth/index.html",
+    "main.c2cab247.css.map": "/firebase-auth/static/css/main.c2cab247.css.map",
+    "main.ea94725e.js.map": "/firebase-auth/static/js/main.ea94725e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.ea94725e.js"
+  ]
+}
