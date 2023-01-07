@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.c2cab247.css",
-    "main.js": "/static/js/main.f73562f4.js",
-    "index.html": "/index.html",
-    "main.c2cab247.css.map": "/static/css/main.c2cab247.css.map",
-    "main.f73562f4.js.map": "/static/js/main.f73562f4.js.map"
+    "main.css": "/firebase-auth/static/css/main.c2cab247.css",
+    "main.js": "/firebase-auth/static/js/main.32c0269f.js",
+    "index.html": "/firebase-auth/index.html",
+    "main.c2cab247.css.map": "/firebase-auth/static/css/main.c2cab247.css.map",
+    "main.32c0269f.js.map": "/firebase-auth/static/js/main.32c0269f.js.map"
   },
   "entrypoints": [
     "static/css/main.c2cab247.css",
-    "static/js/main.f73562f4.js"
+    "static/js/main.32c0269f.js"
   ]
 }
