@@ -17,7 +17,7 @@ function App() {
           <Router>
             <AuthProvider>
                 <Routes>
-                  <Route exact path="/" 
+                  <Route exact path="/firebase-auth" 
                   element={
                     <PrivateRoute>
                       <Dashboard/>

@@ -32,7 +32,7 @@ const UpdateProfile = () => {
     }
 
     Promise.all(promises).then(() => {
-        navigate('/')
+        navigate('/firebase-auth')
     }).catch(() => {
         setError('Failed to update account')
     }).finally(() => {
@@ -64,7 +64,7 @@ const UpdateProfile = () => {
         </Card.Body>
     </Card>
     <div className="w-100 text-center mt-2">
-        <Link to="/">Cancel</Link>
+        <Link to="/firebase-auth">Cancel</Link>
     </div>
     </>
   )
